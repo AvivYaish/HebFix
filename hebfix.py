@@ -1,6 +1,8 @@
 """Write visual RTL Hebrew from files/stdin to stdout even when RTL isn't supported (e.g., Windows Terminal).
 Default: --rtl --width 80.
 Use --width auto for terminal width, --width N for N columns, --width 0 for unlimited lines, and --reflow to resize formatted text.
+For [glow](https://github.com/charmbracelet/glow) to work, use: `glow -w 0`.
+Install before using: `python -m pip install "python-bidi>=0.6.11,<0.7" "wcwidth>=0.9.1,<1" "markdown-it-py>=4.2,<5"`
 """
 import argparse
 import re

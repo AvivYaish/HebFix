@@ -1,4 +1,14 @@
 # HebFix
-Write visual RTL Hebrew from files/stdin to stdout even when RTL isn't supported (e.g., Windows Terminal).
+Write visual RTL Hebrew from files/stdin to stdout even when RTL isn't supported.
+Supports:
+- Markdown formatting
+- Mixed RTL and LTR text
+- Works with Windows Terminal, cat, bat, and vim
 
-![Demo pic](image.png)
+<center>
+
+![Works with Windows Terminal](demo_wt.png)
+
+![Works with vim](demo_vim.png)
+
+</center>

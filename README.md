@@ -9,6 +9,4 @@ Supports:
 
 ![Works with Windows Terminal](demo_wt.png)
 
-![Works with vim](demo_vim.png)
-
 </center>

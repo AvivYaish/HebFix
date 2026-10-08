@@ -7,6 +7,6 @@ Supports:
 
 <center>
 
-![Works with Windows Terminal](demo_wt.png)
+![Works with Windows Terminal](demo.png)
 
 </center>
